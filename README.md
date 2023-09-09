@@ -45,11 +45,11 @@ This system constantly takes distance measurements of the object the sensor is f
 
 ### Object Out of Range (Sensor Pointing to Sky)
 
-![Out of Range](https://github.com/chrissaji1234/LIDAR-Speed-Detector/blob/master/Photos/Out-of-Range.jpg)
+![Out of Range](https://github.com/chrissaji1234/LIDAR-Speed-Detector/blob/master/Photos/Out%20of%20Range.jpg)
 
 ### Tracking Moving Vehicle (Moving Away)
 
-![Tracking Moving Vehicle](https://github.com/chrissaji1234/LIDAR-Speed-Detector/blob/master/Photos/Tracking-Car.jpg)
+![Tracking Moving Vehicle](https://github.com/chrissaji1234/LIDAR-Speed-Detector/blob/master/Photos/Tracking%20Car.jpg)
 
 ## References
 
